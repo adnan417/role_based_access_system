@@ -1,0 +1,16 @@
+{
+    "users":[
+        {
+            "id":123,
+            "role":"admin"
+        },
+        {
+            "id":124,
+            "role":"supervisor"
+        },
+        {
+            "id":125,
+            "role":"employee"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "roles":[
+        {
+            "name":"admin",
+            "permissions":[
+                "create","read","update","delete"
+            ]
+        },
+        {
+            "name":"supervisor",
+            "permissions":[
+                "create","read","update"
+            ]
+        },
+        {
+            "name":"employee",
+            "permissions":[
+                "create","read"
+            ]
+        }
+    ]
+}
